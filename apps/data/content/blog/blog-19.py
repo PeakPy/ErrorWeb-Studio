@@ -12,19 +12,19 @@ blog_data = {
     "images": {
         "api_threshold.webp": f"{settings.BLOG_BASE_IMG_URL}/api_threshold.webp"
     },
-    "created_at": datetime.strptime("2025-07-09T21:27:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-08-01T18:40:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-07-09T21:27:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-08-01T18:40:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
             "class": "mb-2 text-sm md:text-base lg:text-lg",
             "text": (
                 "Following a previous announcement regarding potential API shutdowns, "
-                "<strong>mlbb-stats.ridwaanhall.com</strong> and <strong>api-pddikti.ridwaanhall.com</strong> "
-                "will be available again on <strong class='text-yellow-600'>28 August 2025</strong>, or sooner if we receive support with a minimum of <strong>25 USD</strong>."
+                "<strong>mlbb-stats.errorweb.ir</strong> and <strong>api-pddikti.errorweb.ir</strong> "
+                "will be available again on <strong class='text-yellow-600'>28 August 2021</strong>, or sooner if we receive support with a minimum of <strong>25 USD</strong>."
             )
         },
         {
@@ -126,17 +126,17 @@ blog_data = {
                 {
                     "type": "li",
                     "class": "text-sm md:text-base lg:text-lg",
-                    "text": "<a href='https://github.com/sponsors/ridwaanhall' class='underline'>GitHub Sponsors</a>"
+                    "text": "<a href='https://github.com/sponsors/errorweb' class='underline'>GitHub Sponsors</a>"
                 },
                 {
                     "type": "li",
                     "class": "text-sm md:text-base lg:text-lg",
-                    "text": "<a href='https://saweria.co/ridwaanhall' class='underline'>Saweria</a>"
+                    "text": "<a href='https://saweria.co/errorweb' class='underline'>Saweria</a>"
                 },
                 {
                     "type": "li",
                     "class": "text-sm md:text-base lg:text-lg",
-                    "text": "<a href='https://sociabuzz.com/ridwaanhall/support' class='underline'>Sociabuzz</a>"
+                    "text": "<a href='https://sociabuzz.com/errorweb/support' class='underline'>Sociabuzz</a>"
                 }
             ]
         },

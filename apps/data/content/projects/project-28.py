@@ -22,11 +22,11 @@ project_data = {
         SkillsData.tech_stack["python"],
         SkillsData.tech_stack["django"]
     ],
-    "github_url": "https://github.com/ridwaanhall/follow-dragon-spacex",
-    "demo_url": "https://follow-dragon.ridwaanhall.com/",
+    "github_url": "https://github.com/PeakPy/follow-dragon-spacex",
+    "demo_url": "https://follow-dragon.errorweb.ir/",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2024-09-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-09-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "API, Space, Real-time Data, Django",
     "tags": [
         "SpaceX",

@@ -1,4 +1,4 @@
-# Contributing to ridwaanhall.com
+# Contributing to errorweb.ir
 
 Thank you for your interest in contributing to this Django portfolio project! This document provides guidelines and information for contributors to ensure a smooth and effective collaboration process.
 
@@ -38,14 +38,14 @@ Before you begin, ensure you have the following installed:
 2. **Clone your fork** locally:
 
    ```powershell
-   git clone https://github.com/ridwaanhall/ridwaanhall-com.git
-   cd ridwaanhall-com
+   git clone https://github.com/PeakPy/ErrorWeb-Studio.git
+   cd ErrorWeb-Studio
    ```
 
 3. **Add upstream remote**:
 
    ```powershell
-   git remote add upstream https://github.com/ridwaanhall/ridwaanhall-com.git
+   git remote add upstream https://github.com/PeakPy/ErrorWeb-Studio.git
    ```
 
 ## Development Setup
@@ -102,7 +102,7 @@ Visit `http://localhost:8000` to view the application.
 Understanding the project architecture:
 
 ```txt
-ridwaanhall_com/
+errorweb_ir/
 ├── apps/                          # Django applications
 │   ├── about/                     # Personal information & bio
 │   ├── blog/                      # Blog system with SEO
@@ -111,7 +111,7 @@ ridwaanhall_com/
 │   ├── data/                      # Individual file data management system
 │   ├── seo/                       # SEO, sitemaps, robots.txt
 │   └── projects/                  # Portfolio management
-├── FlexForge/                     # Django project configuration
+├── ErrorWebStudio/                     # Django project configuration
 ├── static/                        # Development static files
 ├── staticfiles/                   # Production static files (auto-generated)
 ├── templates/                     # HTML templates
@@ -475,7 +475,7 @@ class BlogViewTests(TestCase):
 - **Use environment variables** for configuration
 - **Validate user input** properly
 - **Follow Django security best practices**
-- **Report security issues** privately to [hi@ridwaanhall.com](mailto:hi@ridwaanhall.com)
+- **Report security issues** privately to [hi@errorweb.ir](mailto:hi@errorweb.ir)
 
 ### Security Checklist
 
@@ -490,8 +490,8 @@ class BlogViewTests(TestCase):
 ### Communication Channels
 
 - **GitHub Issues**: For bugs and feature requests
-- **Email**: [hi@ridwaanhall.com](mailto:hi@ridwaanhall.com) for private communications
-- **LinkedIn**: [in/ridwaanhall](https://linkedin.com/in/ridwaanhall) for professional inquiries
+- **Email**: [hi@errorweb.ir](mailto:hi@errorweb.ir) for private communications
+- **LinkedIn**: [in/errorweb](https://linkedin.com/in/errorweb) for professional inquiries
 
 ### Resources
 
@@ -514,6 +514,6 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-Thank you for contributing to ridwaanhall.com! Your efforts help make this project better for everyone. 🚀
+Thank you for contributing to errorweb.ir! Your efforts help make this project better for everyone. 🚀
 
-**Questions?** Feel free to reach out via [email](mailto:hi@ridwaanhall.com) or create an issue for clarification.
+**Questions?** Feel free to reach out via [email](mailto:hi@errorweb.ir) or create an issue for clarification.

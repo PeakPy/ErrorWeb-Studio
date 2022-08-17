@@ -22,11 +22,11 @@ project_data = {
         SkillsData.tech_stack["python"],
         SkillsData.tech_stack["flask"]
     ],
-    "github_url": "https://replit.com/@ridwaanhall/college-data",
+    "github_url": "https://replit.com/@errorweb/college-data",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2023-08-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-08-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "API, Education, College Data, Flask",
     "tags": [
         "API",

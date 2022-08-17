@@ -1,10 +1,10 @@
 """
-Django 5.2.x settings for FlexForge project.
+Django 5.2.x settings for ErrorWebStudio project.
 Contains security configurations and environment-specific settings.
 
-Author: Ridwan Halim (ridwaanhall.com)
+Author: Ehsan Akbari (errorweb.ir)
 License: Apache License 2.0
-Created at: March 16, 2025
+Created at: March 16, 2021
 """
 
 from pathlib import Path
@@ -25,15 +25,15 @@ ACCESS_TOKEN = config('ACCESS_TOKEN')
 WAKATIME_API_KEY = config('WAKATIME_API_KEY')
 WEB3FORM_PAC = config('WEB3FORM_PAC', default='')
 
-BASE_URL = config('BASE_URL', default='https://ridwaanhall.com')
+BASE_URL = config('BASE_URL', default='https://errorweb.ir')
 BLOG_BASE_IMG_URL = config('BLOG_BASE_IMG_URL', default=f'{BASE_URL}/static/img/blog')
 PROJECT_BASE_IMG_URL = config('PROJECT_BASE_IMG_URL', default=f'{BASE_URL}/static/img/project')
 
 # Host configuration
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='', cast=Csv()) if DEBUG else [
     '.vercel.app',
-    '.ridwaanhall.me',
-    '.ridwaanhall.com',
+    '.errorweb.me',
+    '.errorweb.ir',
 ]
 
 # ------------------------------------------------------------------------------
@@ -67,7 +67,7 @@ CONTENT_SECURITY_POLICY = {
         'base-uri': [SELF],
         'connect-src': [
             SELF,
-            'ridwaanhall.com',
+            'errorweb.ir',
             '*.googleapis.com',
             'https://api.web3forms.com',
             'api.web3forms.com',
@@ -75,7 +75,7 @@ CONTENT_SECURITY_POLICY = {
         'default-src': [SELF],
         'font-src': [
             SELF,
-            'ridwaanhall.com',
+            'errorweb.ir',
             '*.gstatic.com',
         ],
         'form-action': [
@@ -89,7 +89,7 @@ CONTENT_SECURITY_POLICY = {
         ],
         'img-src': [
             SELF,
-            'ridwaanhall.com',
+            'errorweb.ir',
             'data:',
             BLOG_BASE_IMG_URL,
             PROJECT_BASE_IMG_URL,
@@ -104,7 +104,7 @@ CONTENT_SECURITY_POLICY = {
         'script-src': [
             SELF,
             UNSAFE_INLINE,
-            'ridwaanhall.com',
+            'errorweb.ir',
             'static.cloudflareinsights.com',
             '*.googleapis.com',
             'cdn.jsdelivr.net',
@@ -112,7 +112,7 @@ CONTENT_SECURITY_POLICY = {
         'style-src': [
             SELF,
             UNSAFE_INLINE,
-            'ridwaanhall.com',
+            'errorweb.ir',
             '*.googleapis.com',
             '*.gstatic.com',
             'cdn.jsdelivr.net',
@@ -247,7 +247,7 @@ if GUESTBOOK_PAGE:
         }
     }
 
-ROOT_URLCONF = 'FlexForge.urls'
+ROOT_URLCONF = 'ErrorWebStudio.urls'
 
 TEMPLATES = [
     {
@@ -262,13 +262,13 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-                'FlexForge.context_processors.feature_flags',
+                'ErrorWebStudio.context_processors.feature_flags',
             ],
         },
     },
 ]
 
-WSGI_APPLICATION = 'FlexForge.wsgi.application'
+WSGI_APPLICATION = 'ErrorWebStudio.wsgi.application'
 
 # ------------------------------------------------------------------------------
 # DATABASE SETTINGS (PostgreSQL)
@@ -285,7 +285,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
-            'NAME': config('POSTGRES_DATABASE', default='ridwaanhall_db'),
+            'NAME': config('POSTGRES_DATABASE', default='errorweb_db'),
             'USER': config('POSTGRES_USER', default='postgres'),
             'PASSWORD': config('POSTGRES_PASSWORD', default=''),
             'HOST': config('POSTGRES_HOST', default='localhost'),

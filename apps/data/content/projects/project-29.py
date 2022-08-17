@@ -22,11 +22,11 @@ project_data = {
         SkillsData.tech_stack["python"],
         SkillsData.tech_stack["django"]
     ],
-    "github_url": "https://github.com/ridwaanhall/management-mabar-VIP-MLBB",
+    "github_url": "https://github.com/PeakPy/management-mabar-VIP-MLBB",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2024-10-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-10-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Web App, Gaming, Management, Django",
     "tags": [
         "MLBB",

@@ -1,7 +1,7 @@
 """
 Management command to test and configure WSRV image optimization settings.
 
-Author: Ridwan Halim (ridwaanhall.com)
+Author: Ehsan Akbari (errorweb.ir)
 License: Apache License 2.0
 """
 

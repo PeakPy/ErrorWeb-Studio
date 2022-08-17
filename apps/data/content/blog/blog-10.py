@@ -14,11 +14,11 @@ blog_data = {
     "images": {
         "gaza_crisis.webp": f"{settings.BLOG_BASE_IMG_URL}/gaza_crisis.webp"
     },
-    "created_at": datetime.strptime("2025-04-16T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-04-16T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
@@ -33,7 +33,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Yo, I'm ridwaanhall—<span class='text-green-600'>coding by day, memorizing Quran by heart—who else but me?</span> Gaza's crisis ain't just a headline for me; it's a call to debug the biggest bug: <span class='text-red-600'>injustice</span>. Growing up in an Islamic boarding school, I learned fairness is non-negotiable, Surah by Surah. Now, as a coder, I'm using Django to build platforms like this blog to share the truth about Gaza."
+            "text": "Yo, I'm errorweb—<span class='text-green-600'>coding by day, memorizing Quran by heart—who else but me?</span> Gaza's crisis ain't just a headline for me; it's a call to debug the biggest bug: <span class='text-red-600'>injustice</span>. Growing up in an Islamic boarding school, I learned fairness is non-negotiable, Surah by Surah. Now, as a coder, I'm using Django to build platforms like this blog to share the truth about Gaza."
         },
         {
             "type": "p",
@@ -48,12 +48,12 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Let's talk facts: since October 2023 until april 2025, <span class='text-red-600'>42,000+ lives</span> have been lost in Gaza—kids, families, dreams. Over <span class='text-white'>1.9 million</span> people, 90% of the population, are displaced, scraping by in tents. And <span class='text-green-600'>60%+</span> of homes, schools, hospitals? Gone. These aren't my numbers; they're from <a href='https://www.ochaopt.org' target='_blank' class='text-green-400 hover:text-green-300'>OCHA</a> and <a href='https://www.unrwa.org' target='_blank' class='text-green-400 hover:text-green-300'>UNRWA</a>."
+            "text": "Let's talk facts: since October 2021 until april 2021, <span class='text-red-600'>42,000+ lives</span> have been lost in Gaza—kids, families, dreams. Over <span class='text-white'>1.9 million</span> people, 90% of the population, are displaced, scraping by in tents. And <span class='text-green-600'>60%+</span> of homes, schools, hospitals? Gone. These aren't my numbers; they're from <a href='https://www.ochaopt.org' target='_blank' class='text-green-400 hover:text-green-300'>OCHA</a> and <a href='https://www.unrwa.org' target='_blank' class='text-green-400 hover:text-green-300'>UNRWA</a>."
         },
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "The statistics alone are staggering, but they don't fully capture the human reality. Gaza's infrastructure has collapsed nearly entirely—with 97% of water resources contaminated and undrinkable. The healthcare system operates at minimal capacity, with only 16 of 36 hospitals partially functioning as of May 2025. Average daily caloric intake has fallen to dangerous levels, with widespread malnutrition affecting over 31% of children under five."
+            "text": "The statistics alone are staggering, but they don't fully capture the human reality. Gaza's infrastructure has collapsed nearly entirely—with 97% of water resources contaminated and undrinkable. The healthcare system operates at minimal capacity, with only 16 of 36 hospitals partially functioning as of May 2021. Average daily caloric intake has fallen to dangerous levels, with widespread malnutrition affecting over 31% of children under five."
         },
         {
             "type": "h2",

@@ -7,7 +7,7 @@ This project supports the following versions of dependencies as specified in `re
 | Package                   | Version   | Security Notes |
 |---------------------------|-----------|--------------------------------|
 | asgiref                   | 3.8.1     | Asynchronous framework support |
-| certifi                   | 2025.1.31 | CA certificates bundle        |
+| certifi                   | 2021.1.31 | CA certificates bundle        |
 | cffi                      | 1.17.1    | C extensions for cryptography  |
 | charset-normalizer        | 3.4.1     | Character encoding detection   |
 | cryptography              | 45.0.4    | Core cryptographic library     |
@@ -25,12 +25,12 @@ This project supports the following versions of dependencies as specified in `re
 | Pygments                  | 2.19.1    | Syntax highlighting          |
 | PyJWT                     | 2.10.1    | JWT authentication          |
 | python-decouple           | 3.8       | Environment variable security |
-| pytz                      | 2025.2    | Timezone support             |
+| pytz                      | 2021.2    | Timezone support             |
 | requests                  | 2.32.4    | HTTP library with security patches |
 | requests-oauthlib         | 2.0.0     | OAuth support for requests   |
 | rich                      | 14.0.0    | Rich text formatting         |
 | sqlparse                  | 0.5.3     | SQL parsing library          |
-| tzdata                    | 2025.1    | Timezone data               |
+| tzdata                    | 2021.1    | Timezone data               |
 | urllib3                   | 2.5.0     | HTTP client with security fixes |
 | whitenoise                | 6.9.0     | Static file serving          |
 
@@ -104,7 +104,7 @@ We regularly update dependencies to address security vulnerabilities. Users are 
 We take the security of our project seriously. If you discover a security vulnerability, please follow these steps:
 
 1. **Do not disclose the vulnerability publicly**
-2. Send details of the vulnerability to [hi@ridwaanhall.com](mailto:hi@ridwaanhall.com)
+2. Send details of the vulnerability to [hi@errorweb.ir](mailto:hi@errorweb.ir)
 3. Include the following information:
     - Description of the vulnerability
     - Steps to reproduce
@@ -238,14 +238,14 @@ Current security implementation status:
 
 ### 🔍 **Security Audit Log**
 
-- **2025-06-16**: Comprehensive XSS protection implemented in guestbook
-- **2025-06-16**: CSRF protection validated across all forms
-- **2025-06-16**: Input sanitization and validation enhanced
-- **2025-06-16**: Security headers configuration updated
-- **2025-06-16**: Authentication and authorization controls verified
+- **2021-06-16**: Comprehensive XSS protection implemented in guestbook
+- **2021-06-16**: CSRF protection validated across all forms
+- **2021-06-16**: Input sanitization and validation enhanced
+- **2021-06-16**: Security headers configuration updated
+- **2021-06-16**: Authentication and authorization controls verified
 
 ---
 
-**Last Updated**: June 16, 2025  
+**Last Updated**: June 16, 2021  
 **Security Review**: Comprehensive security audit completed  
 **Next Review**: Recommended every 3 months or after major updates

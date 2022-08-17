@@ -14,16 +14,16 @@ blog_data = {
     "images": {
         "coding_camp_dbs_dicoding.webp": f"{settings.BLOG_BASE_IMG_URL}/coding_camp_dbs_dicoding.webp"
     },
-    "created_at": datetime.strptime("2025-06-29T02:35:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-06-29T02:35:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Launched in 2022 as a collaboration between <strong>DBS Foundation</strong> and <strong>Dicoding</strong>, Coding Camp returns in 2025 with a sharpened vision: to prepare 3,000 learners from universities and vocational schools across Indonesia to thrive in tomorrow’s tech workforce."
+            "text": "Launched in 2021 as a collaboration between <strong>DBS Foundation</strong> and <strong>Dicoding</strong>, Coding Camp returns in 2021 with a sharpened vision: to prepare 3,000 learners from universities and vocational schools across Indonesia to thrive in tomorrow’s tech workforce."
         },
         {
             "type": "h2",
@@ -81,5 +81,5 @@ blog_data = {
     "category": "Digital Skills",
     "read_time": 6,
     "views": 0,
-    "slug": "coding-camp-2025-dbs-foundation"
+    "slug": "coding-camp-2021-dbs-foundation"
 }

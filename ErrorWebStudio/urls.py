@@ -23,4 +23,4 @@ else:
     pass
 
 # Custom error handlers
-handler404 = 'FlexForge.views.custom_404_view'
+handler404 = 'ErrorWebStudio.views.custom_404_view'

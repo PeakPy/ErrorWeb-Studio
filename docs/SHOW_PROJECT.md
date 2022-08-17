@@ -1,10 +1,10 @@
-# FlexForge - Advanced Developer Portfolio Platform
+# ErrorWebStudio - Advanced Developer Portfolio Platform
 
-![FlexForge Portfolio](https://ridwaanhall.com/static/img/project/ridwaanhall_com_2025070701.webp)
+![ErrorWebStudio Portfolio](staticfiles/img/project/errorweb_ir_2021070701.png)
 
 ## Deskripsi Proyek
 
-**FlexForge** adalah platform portfolio developer yang dibikin pakai Django 5.2.5 buat nunjukin karya dan aktivitas coding dengan style maksimal. Ngegabungin performa ngebut, keamanan enterprise-grade, dan sistem manajemen konten inovatif. Template portfolio yang gampang di-customize, bisa nyambungin data real-time dari GitHub & WakaTime, chat-like guestbook, plus sistem file terpisah yang fleksibel. PageSpeed 95+/100 dengan keamanan CSP, HSTS, dan XSS protection.
+**ErrorWebStudio** adalah platform portfolio developer yang dibikin pakai Django 5.2.5 buat nunjukin karya dan aktivitas coding dengan style maksimal. Ngegabungin performa ngebut, keamanan enterprise-grade, dan sistem manajemen konten inovatif. Template portfolio yang gampang di-customize, bisa nyambungin data real-time dari GitHub & WakaTime, chat-like guestbook, plus sistem file terpisah yang fleksibel. PageSpeed 95+/100 dengan keamanan CSP, HSTS, dan XSS protection.
 
 ## Tech Stack
 

@@ -108,7 +108,7 @@ class SEOSchemaGenerator:
             "jobTitle": job_title,
             "worksFor": works_for,
             "description": about_data.get('short_description', ''),
-            "email": about_data.get('email', 'hi@ridwaanhall.com'),
+            "email": about_data.get('email', 'hi@errorweb.ir'),
             "alumniOf": alumni_of,
             "knowsAbout": knows_about,
             "workExperience": work_experience
@@ -358,8 +358,8 @@ class SEOSchemaGenerator:
                     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
                     "opens": "09:00",
                     "closes": "17:00",
-                    "validFrom": "2024-01-01",
-                    "validThrough": "2025-12-31"
+                    "validFrom": "2021-01-01",
+                    "validThrough": "2021-12-31"
                 }
             ],
             "availableLanguage": ["English", "Indonesian"]
@@ -385,7 +385,7 @@ class SEOSchemaGenerator:
             "url": f"{SEOConfig.SITE_URL}/contact/",
             "mainEntity": organization,
             "author": author,
-            "dateCreated": "2025-03-16",
+            "dateCreated": "2021-03-16",
             "dateModified": datetime.now().strftime("%Y-%m-%d"),
             "inLanguage": "en",
             "isPartOf": {
@@ -453,7 +453,7 @@ class SEOSchemaGenerator:
                 "name": about_data.get('name', ''),
                 "url": SEOConfig.SITE_URL
             },
-            "dateCreated": "2025-03-16",
+            "dateCreated": "2021-03-16",
             "dateModified": datetime.now().strftime("%Y-%m-%d"),
             "inLanguage": "en"
         }
@@ -464,10 +464,10 @@ class SEOSchemaGenerator:
         return {
             "@context": "https://schema.org",
             "@type": "PrivacyPolicy",
-            "name": "Privacy Policy - ridwaanhall.com",
-            "description": "Comprehensive privacy policy outlining how we collect, use, and protect your personal information on ridwaanhall.com",
+            "name": "Privacy Policy - errorweb.ir",
+            "description": "Comprehensive privacy policy outlining how we collect, use, and protect your personal information on errorweb.ir",
             "url": f"{SEOConfig.SITE_URL}/privacy-policy/",
-            "dateCreated": "2025-03-16",
+            "dateCreated": "2021-03-16",
             "dateModified": datetime.now().strftime("%Y-%m-%d"),
             "inLanguage": "en",
             "publisher": {

@@ -25,11 +25,11 @@ project_data = {
         SkillsData.tech_stack["vercel"],
         SkillsData.tech_stack["cloudflare"]
     ],
-    "github_url": "https://github.com/ridwaanhall/Lumina",
-    "demo_url": "https://lumina.ridwaanhall.com",
+    "github_url": "https://github.com/PeakPy/Lumina",
+    "demo_url": "https://lumina.errorweb.ir",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Education, Attendance, Automation, Django",
     "tags": [
         "Attendance",

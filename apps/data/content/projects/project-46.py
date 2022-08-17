@@ -35,10 +35,10 @@ project_data = {
         SkillsData.tech_stack["vercel"]
     ],
     "github_url": "",
-    "demo_url": "https://finance.ridwaanhall.com",
+    "demo_url": "https://finance.errorweb.ir",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-04-26T16:35:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-04-26T16:35:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "finance",
     "tags": ["gold", "price tracker", "indonesia", "analytics", "finance", "lstm"],
 }

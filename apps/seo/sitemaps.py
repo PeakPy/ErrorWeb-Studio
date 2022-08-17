@@ -116,7 +116,7 @@ class StaticPagesSitemap(Sitemap):
         
         # Final fallback to a reasonable default date instead of today
         # This should rarely be hit now that we handle all cases properly
-        return timezone.datetime(2024, 1, 1, tzinfo=timezone.get_current_timezone())
+        return timezone.datetime(2021, 1, 1, tzinfo=timezone.get_current_timezone())
 
 
 class BlogSitemap(Sitemap):

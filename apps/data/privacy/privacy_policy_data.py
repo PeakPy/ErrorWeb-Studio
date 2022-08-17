@@ -2,7 +2,7 @@ from datetime import datetime
 
 class PrivacyPolicyData:
     privacy_policy = {
-        "last_updated": datetime.strptime("2025-08-01T19:19:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+        "last_updated": datetime.strptime("2021-08-01T19:19:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
         "overview": "I understand that your privacy is important. This policy explains how I collect, use, and protect your information when you visit my website.",
         "policy_updates": "I may update this policy as the website evolves and grows. Major changes will be reflected in the last updated date above, and I'll do my best to notify you of significant privacy policy updates.",
         "data_collected": {
@@ -70,14 +70,14 @@ class PrivacyPolicyData:
             "Data Deletion": "Delete your guestbook messages, profile data, or account.",
             "Data Correction": "Update or correct any inaccurate personal information.",
             "Opt-Out Options": "Disable tracking via browser settings, ad blockers, or Do Not Track.",
-            "Contact": "Reach out to hi@ridwaanhall.com for any privacy questions or requests."
+            "Contact": "Reach out to hi@errorweb.ir for any privacy questions or requests."
         },
         "guestbook_limitations": {
             "Timestamp Display": "All message timestamps are stored and shown in Jakarta time (WIB, UTC+7), regardless of your local time zone.",
             "Message Management": "You can send messages and reply to other messages or your own messages.",
             "No Self-Deletion": "You cannot delete your own messages through the interface.",
             "No Message Editing": "Posted messages cannot be edited once submitted.",
-            "Deletion Requests": "To delete your messages, contact hi@ridwaanhall.com with your request.",
+            "Deletion Requests": "To delete your messages, contact hi@errorweb.ir with your request.",
             "Permanent Nature": "Consider your messages permanent once posted, as self-deletion is not available."
         },
         "cookies": {

@@ -24,11 +24,11 @@ project_data = {
         SkillsData.tech_stack["javascript"],
         SkillsData.tech_stack["css"]
     ],
-    "github_url": "https://github.com/ridwaanhall/api-pddikti",
-    "demo_url": "https://pddikti-docs.ridwaanhall.com/",
+    "github_url": "https://github.com/PeakPy/api-pddikti",
+    "demo_url": "https://pddikti-docs.errorweb.ir/",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-07-06T16:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-07-06T16:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "API, Education, Data Integration",
     "tags": [
         "API",

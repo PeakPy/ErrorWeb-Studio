@@ -22,11 +22,11 @@ project_data = {
         SkillsData.tech_stack["python"],
         SkillsData.tech_stack["cnn"]
     ],
-    "github_url": "https://github.com/ridwaanhall/zeronine",
+    "github_url": "https://github.com/PeakPy/zeronine",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2024-08-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-08-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Machine Learning, Computer Vision, Handwriting Recognition",
     "tags": [
         "Handwriting Recognition",

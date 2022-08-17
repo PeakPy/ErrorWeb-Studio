@@ -1,7 +1,7 @@
 """
 Image utilities for handling WSRV image optimization.
 
-Author: Ridwan Halim (ridwaanhall.com)
+Author: Ehsan Akbari (errorweb.ir)
 License: Apache License 2.0
 """
 

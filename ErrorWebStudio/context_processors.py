@@ -1,8 +1,8 @@
 """
-Context processors for FlexForge project.
+Context processors for ErrorWebStudio project.
 Makes certain settings available in all templates.
 
-Author: Ridwan Halim (ridwaanhall.com)
+Author: Ehsan Akbari (errorweb.ir)
 License: Apache License 2.0
 """
 

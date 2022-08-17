@@ -25,11 +25,11 @@ project_data = {
         SkillsData.tech_stack["postgresql"],
         SkillsData.tech_stack["radix_ui"]
     ],
-    "github_url": "https://github.com/ridwaanhall/neon-ai",
-    "demo_url": "https://chat.ridwaanhall.com",
+    "github_url": "https://github.com/PeakPy/neon-ai",
+    "demo_url": "https://chat.errorweb.ir",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "AI, Chatbot, Web App, Next.js",
     "tags": [
         "AI Chatbot",

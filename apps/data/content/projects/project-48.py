@@ -33,11 +33,11 @@ project_data = {
         SkillsData.tech_stack["scikitlearn"],
         SkillsData.tech_stack["pandas"]
     ],
-    "github_url": "https://github.com/ridwaanhall/mlbb-draft-assistant",
+    "github_url": "https://github.com/PeakPy/mlbb-draft-assistant",
     "demo_url": "",
     "status": "completed",
-    "created_at": datetime.strptime("2025-06-17T21:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-06-17T21:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "created_at": datetime.strptime("2021-06-17T21:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-06-17T21:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "gaming",
     "tags": ["mlbb", "draft", "assistant", "command-line", "machine learning", "gaming"],
 }

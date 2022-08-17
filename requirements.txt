@@ -1,5 +1,5 @@
 asgiref==3.8.1
-certifi==2025.1.31
+certifi==2021.1.31
 cffi==1.17.1
 charset-normalizer==3.4.1
 cryptography==45.0.4
@@ -17,11 +17,11 @@ pycparser==2.22
 Pygments==2.19.1
 PyJWT==2.10.1
 python-decouple==3.8
-pytz==2025.2
+pytz==2021.2
 requests==2.32.4
 requests-oauthlib==2.0.0
 rich==14.0.0
 sqlparse==0.5.3
-tzdata==2025.1
+tzdata==2021.1
 urllib3==2.5.0
 whitenoise==6.9.0

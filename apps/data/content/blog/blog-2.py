@@ -14,11 +14,11 @@ blog_data = {
     "images": {
         "building_web_applications_with_django.webp": f"{settings.BLOG_BASE_IMG_URL}/building_web_applications_with_django.webp"
     },
-    "created_at": datetime.strptime("2025-03-24T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-05-10T14:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-03-24T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-05-10T14:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",

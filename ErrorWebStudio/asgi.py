@@ -2,6 +2,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'FlexForge.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ErrorWebStudio.settings')
 
 application = get_asgi_application()

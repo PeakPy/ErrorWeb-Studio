@@ -14,11 +14,11 @@ blog_data = {
     "images": {
         "gold_price_prediction.webp": f"{settings.BLOG_BASE_IMG_URL}/gold_price_prediction.webp"
     },
-    "created_at": datetime.strptime("2025-04-23T22:20:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-04-23T22:20:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
@@ -33,7 +33,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "<span class='text-purple-600'>Gold price prediction</span> is the next big flex for Indonesia's market scene! With AI-powered LSTM models, we're crunchin' 10+ years of data to forecast trends that investors can bank on. Wanna know how it works? Check my blog at <span class='text-blue-600'>ridwaanhall.com</span> for the full scoop!"
+            "text": "<span class='text-purple-600'>Gold price prediction</span> is the next big flex for Indonesia's market scene! With AI-powered LSTM models, we're crunchin' 10+ years of data to forecast trends that investors can bank on. Wanna know how it works? Check my blog at <span class='text-blue-600'>errorweb.ir</span> for the full scoop!"
         },
         {
             "type": "h2",
@@ -53,7 +53,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "In 2025, gold price prediction's poppin' off with <span class='text-green-600'>next-level precision</span>. We're talkin' LSTM neural networks that adapt to market volatility and seasonal trends. Plus, the visualizations are clean—dynamic plots that make data analysis a breeze. And don't sleep on the CSV exports; they're perfect for deeper dives into the numbers."
+            "text": "In 2021, gold price prediction's poppin' off with <span class='text-green-600'>next-level precision</span>. We're talkin' LSTM neural networks that adapt to market volatility and seasonal trends. Plus, the visualizations are clean—dynamic plots that make data analysis a breeze. And don't sleep on the CSV exports; they're perfect for deeper dives into the numbers."
         },
         {
             "type": "h2",
@@ -73,7 +73,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "So, how do you <span class='text-purple-600'>leverage gold price predictions</span>? Use the insights to make smarter investment decisions. Whether you're a trader, analyst, or just curious about the market, this tool's got you covered. Check out <span class='text-blue-600'>ridwaanhall.com</span> for tutorials on using the model and tips for navigating Indonesia's gold market."
+            "text": "So, how do you <span class='text-purple-600'>leverage gold price predictions</span>? Use the insights to make smarter investment decisions. Whether you're a trader, analyst, or just curious about the market, this tool's got you covered. Check out <span class='text-blue-600'>errorweb.ir</span> for tutorials on using the model and tips for navigating Indonesia's gold market."
         },
         {
             "type": "h2",

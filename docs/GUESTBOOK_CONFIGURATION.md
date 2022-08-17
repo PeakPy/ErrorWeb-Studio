@@ -36,7 +36,7 @@ GUESTBOOK_PAGE=True
 
 ### Files Modified
 
-1. **`FlexForge/settings.py`**
+1. **`ErrorWebStudio/settings.py`**
    - Added `GUESTBOOK_PAGE` setting with default value `True`
    - Conditionally includes `apps.guestbook` in `INSTALLED_APPS`
    - Conditionally includes all authentication apps (`allauth`, social providers)
@@ -45,10 +45,10 @@ GUESTBOOK_PAGE=True
    - Conditionally sets up allauth configuration settings
    - Conditionally sets login/logout redirect URLs
 
-2. **`FlexForge/urls.py`**
+2. **`ErrorWebStudio/urls.py`**
    - Conditionally includes guestbook URLs (which include authentication URLs)
 
-3. **`FlexForge/context_processors.py`** (new file)
+3. **`ErrorWebStudio/context_processors.py`** (new file)
    - Makes `GUESTBOOK_PAGE` and `AUTHENTICATION_ENABLED` settings available in all templates
 
 4. **`templates/sidebar.html`**

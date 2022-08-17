@@ -11,7 +11,7 @@ class EducationData:
                     "month": "Sep"
                 },
                 "end": {
-                    "year": 2025,
+                    "year": 2021,
                     "month": "Aug"
                 }
             },

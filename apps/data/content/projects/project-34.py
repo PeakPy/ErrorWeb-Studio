@@ -22,11 +22,11 @@ project_data = {
         SkillsData.tech_stack["python"],
         SkillsData.tech_stack["machine_learning"]
     ],
-    "github_url": "https://github.com/ridwaanhall/Dicoding-Machine-Learning-Intermediate/tree/main/01_project",
+    "github_url": "https://github.com/PeakPy/Dicoding-Machine-Learning-Intermediate/tree/main/01_project",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Machine Learning, Sentiment Analysis, App Review, NLP",
     "tags": [
         "Tokopedia",

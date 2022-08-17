@@ -23,10 +23,10 @@ project_data = {
         SkillsData.tech_stack["flask"]
     ],
     "github_url": "",
-    "demo_url": "https://mlbb-api.ridwaanhall.repl.co",
+    "demo_url": "https://mlbb-api.errorweb.repl.co",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2023-08-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-08-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "API, Gaming, MLBB, Flask",
     "tags": [
         "MLBB",

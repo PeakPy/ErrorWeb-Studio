@@ -22,11 +22,11 @@ project_data = {
         SkillsData.tech_stack["python"],
         SkillsData.tech_stack["django"]
     ],
-    "github_url": "https://github.com/ridwaanhall/CRUD-mastery-with-Django",
+    "github_url": "https://github.com/PeakPy/CRUD-mastery-with-Django",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2023-11-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-11-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Web App, CRM, User Management, Django",
     "tags": [
         "CRM",

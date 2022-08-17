@@ -1,24 +1,24 @@
 """
-Blog Post #13: Complete Guide to Modern Web Development in 2025
+Blog Post #13: Complete Guide to Modern Web Development in 2021
 Generated from centralized blog data
 """
 
 from datetime import datetime
 from django.conf import settings
 
-# Blog data for: Complete Guide to Modern Web Development in 2025
+# Blog data for: Complete Guide to Modern Web Development in 2021
 blog_data = {
     "id": 13,
-    "title": """Complete Guide to Modern Web Development in 2025""",
+    "title": """Complete Guide to Modern Web Development in 2021""",
     "description": """Master modern web development with our comprehensive guide covering frontend frameworks, backend technologies, and DevOps practices for building powerful web applications.""",
     "images": {
         "modern_web_dev_guide.webp": f"{settings.BLOG_BASE_IMG_URL}/modern_web_dev_guide.webp"
     },
-    "created_at": datetime.strptime("2025-05-10T11:05:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-05-10T11:05:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-05-10T11:05:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-05-10T11:05:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
@@ -113,7 +113,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "By mastering these modern web development principles and technologies, you'll be equipped to build sophisticated, scalable web applications that meet the demands of both users and businesses in 2025 and beyond."
+            "text": "By mastering these modern web development principles and technologies, you'll be equipped to build sophisticated, scalable web applications that meet the demands of both users and businesses in 2021 and beyond."
         }
     ],
     "is_featured": False,

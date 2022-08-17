@@ -14,16 +14,16 @@ blog_data = {
     "images": {
         "start_with_python.webp": f"{settings.BLOG_BASE_IMG_URL}/start_with_python.webp",
     },
-    "created_at": datetime.strptime("2025-03-24T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-05-10T13:13:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-03-24T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-05-10T13:13:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Python's like the Swiss Army knife of coding—simple, versatile, and straight-up fun. Whether you're dreaming of building websites, crunching data, or automating boring tasks like renaming 100 files, Python's got your back with a vibe that's easy to pick up. With its readable syntax and powerful capabilities, Python has become the go-to language for beginners and professionals alike in 2025."
+            "text": "Python's like the Swiss Army knife of coding—simple, versatile, and straight-up fun. Whether you're dreaming of building websites, crunching data, or automating boring tasks like renaming 100 files, Python's got your back with a vibe that's easy to pick up. With its readable syntax and powerful capabilities, Python has become the go-to language for beginners and professionals alike in 2021."
         },
         {
             "type": "h2",
@@ -54,7 +54,7 @@ blog_data = {
                 },
                 {
                     "type": "li",
-                    "text": "<strong>Massive community:</strong> Over 8.2 million developers worldwide as of 2025"
+                    "text": "<strong>Massive community:</strong> Over 8.2 million developers worldwide as of 2021"
                 },
                 {
                     "type": "li",
@@ -264,7 +264,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "By 2025, Python skills in data science, AI, and automation are among the highest-paid in tech. A solid Python foundation can open doors to careers in:"
+            "text": "By 2021, Python skills in data science, AI, and automation are among the highest-paid in tech. A solid Python foundation can open doors to careers in:"
         },
         {
             "type": "ul",
@@ -374,7 +374,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Have questions about getting started with Python? Drop a comment below or hit me up on Twitter <a href=\"https://twitter.com/ridwaanhall\" class=\"text-blue-600 hover:underline\">@ridwaanhall</a>. Happy coding!"
+            "text": "Have questions about getting started with Python? Drop a comment below or hit me up on Twitter <a href=\"https://twitter.com/errorweb\" class=\"text-blue-600 hover:underline\">@errorweb</a>. Happy coding!"
         }
     ],
     "is_featured": False,

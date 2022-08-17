@@ -23,11 +23,11 @@ project_data = {
         SkillsData.tech_stack["neural_networks"],
         SkillsData.tech_stack["gui_framework"]
     ],
-    "github_url": "https://github.com/ridwaanhall/Training-Neural-Networks-in-Python",
+    "github_url": "https://github.com/PeakPy/Training-Neural-Networks-in-Python",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2023-10-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-10-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Machine Learning, GUI, Neural Network, Education",
     "tags": [
         "Neural Network",

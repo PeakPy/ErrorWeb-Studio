@@ -34,11 +34,11 @@ project_data = {
         SkillsData.tech_stack["fastapi"],
         SkillsData.tech_stack["pytest"]
     ],
-    "github_url": "https://github.com/ridwaanhall/el-perintis",
+    "github_url": "https://github.com/PeakPy/el-perintis",
     "demo_url": "",
     "status": "completed",
-    "created_at": datetime.strptime("2025-07-31T21:40:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-08-01T04:40:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "created_at": datetime.strptime("2021-07-31T21:40:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-08-01T04:40:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "education",
     "tags": ["pioneer", "inheritor", "philosophy", "narrative", "python", "oop", "api", "ryu-kintaro", "legacy", "simulation"],
 }

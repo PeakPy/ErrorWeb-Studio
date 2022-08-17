@@ -24,10 +24,10 @@ project_data = {
         SkillsData.tech_stack["bootstrap"]
     ],
     "github_url": "",
-    "demo_url": "https://replit.com/@ridwaanhall/web-college",
+    "demo_url": "https://replit.com/@errorweb/web-college",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2023-09-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-09-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Web App, Education, Data Visualization",
     "tags": [
         "College Data",

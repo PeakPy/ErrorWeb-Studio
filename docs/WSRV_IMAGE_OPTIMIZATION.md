@@ -1,6 +1,6 @@
 # WSRV Image Optimization System
 
-This document explains how to use and configure the WSRV image optimization system in FlexForge.
+This document explains how to use and configure the WSRV image optimization system in ErrorWebStudio.
 
 ## Overview
 

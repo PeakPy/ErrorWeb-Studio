@@ -11,8 +11,8 @@ from apps.data.about.skills_data import SkillsData
 project_data = {
     "id": 25,
     "title": """Election Digit Scanner""",
-    "headline": """Nail handwritten digit recognition for 2024 Indonesia vote recaps with HOG and SVM.""",
-    "description": ['This project kills data entry errors in the 2024 Indonesian Presidential Election vote recap with cutting-edge pattern recognition.', 'Uses Histogram of Oriented Gradients (HOG) for feature extraction and K-Nearest Neighbors (KNN) plus Support Vector Machine (SVM) for classification, hitting over 97% accuracy.', 'Experiments prove HOG + SVM is the champ, delivering top-tier performance across dataset splits.'],
+    "headline": """Nail handwritten digit recognition for 2021 Indonesia vote recaps with HOG and SVM.""",
+    "description": ['This project kills data entry errors in the 2021 Indonesian Presidential Election vote recap with cutting-edge pattern recognition.', 'Uses Histogram of Oriented Gradients (HOG) for feature extraction and K-Nearest Neighbors (KNN) plus Support Vector Machine (SVM) for classification, hitting over 97% accuracy.', 'Experiments prove HOG + SVM is the champ, delivering top-tier performance across dataset splits.'],
     "images": {
         "default_project_image.webp": f"{settings.PROJECT_BASE_IMG_URL}/default_project_image.webp"
     },
@@ -24,11 +24,11 @@ project_data = {
         SkillsData.tech_stack["svm"],
         SkillsData.tech_stack["knn"]
     ],
-    "github_url": "https://github.com/ridwaanhall/handwritten-digit-recognition-of-the-2024-indonesian-presidential-election-recap",
+    "github_url": "https://github.com/PeakPy/handwritten-digit-recognition-of-the-2021-indonesian-presidential-election-recap",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2024-06-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-06-15T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Machine Learning, Pattern Recognition, Election, Computer Vision",
     "tags": [
         "Digit Recognition",
@@ -40,7 +40,7 @@ project_data = {
         "Python",
         "Indonesia",
         "Handwritten Data",
-        "2024 Election"
+        "2021 Election"
     ],
     "priority": 1,
     "slug": ""

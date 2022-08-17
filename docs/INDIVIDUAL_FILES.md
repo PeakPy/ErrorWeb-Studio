@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![Django](https://img.shields.io/badge/Django-5.2.5-092E20?style=flat&logo=django&logoColor=white)](https://djangoproject.com/)
-[![Modular Architecture](https://img.shields.io/badge/Architecture-Modular_Files-success?style=flat&logo=files&logoColor=white)](https://github.com/ridwaanhall/ridwaanhall-com)
+[![Modular Architecture](https://img.shields.io/badge/Architecture-Modular_Files-success?style=flat&logo=files&logoColor=white)](https://github.com/PeakPy/ErrorWeb-Studio.git)
 
 > **Revolutionary data management system that transforms content organization through individual file architecture, showcasing enterprise-grade modularity and scalability.**
 
@@ -124,11 +124,11 @@ blog_data = {
     "description": "New to coding? Let's dive into why Python's the coolest way to kick off your programming adventure!",
     "image_url": f"{settings.BLOG_BASE_IMG_URL}/start_with_python.webp",
     "img_name": "start_with_python.webp",
-    "created_at": datetime.strptime("2025-03-24T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-05-10T13:13:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
-    "username": "ridwaanhall",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "created_at": datetime.strptime("2021-03-24T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-05-10T13:13:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
+    "username": "errorweb",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         # Rich HTML content with TailwindCSS styling
         "<p class='mb-4 text-sm md:text-base lg:text-lg'>Python's like the Swiss Army knife of coding...</p>",
@@ -191,11 +191,11 @@ project_data = {
             "icon_svg": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         }
     ],
-    "github_url": "https://github.com/ridwaanhall/mlbb-username-finder",
-    "demo_url": "https://mlbb-finder.ridwaanhall.com",
+    "github_url": "https://github.com/PeakPy/mlbb-username-finder",
+    "demo_url": "https://mlbb-finder.errorweb.ir",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2023-03-30T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-03-30T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "API Tools",
     "tags": ["Python", "API", "Gaming"],
     "priority": 1,
@@ -389,11 +389,11 @@ blog_data = {
     "description": "Master advanced Django optimization for enterprise-grade performance.",
     "image_url": f"{settings.BLOG_BASE_IMG_URL}/django_optimization.webp",
     "img_name": "django_optimization.webp",
-    "created_at": datetime.strptime("2025-06-09T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-06-09T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
-    "username": "ridwaanhall",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "created_at": datetime.strptime("2021-06-09T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-06-09T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
+    "username": "errorweb",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         # Your comprehensive blog content here
     ],
@@ -461,11 +461,11 @@ project_data = {
             "icon_svg": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
         }
     ],
-    "github_url": "https://github.com/ridwaanhall/ai-portfolio-analytics",
-    "demo_url": "https://ai-analytics.ridwaanhall.com",
+    "github_url": "https://github.com/PeakPy/ai-portfolio-analytics",
+    "demo_url": "https://ai-analytics.errorweb.ir",
     "status": "in_progress",
-    "created_at": datetime.strptime("2025-06-01T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-06-09T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "created_at": datetime.strptime("2021-06-01T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-06-09T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "AI/ML",
     "tags": ["Python", "AI", "Analytics", "Machine Learning"],
     "priority": 1,
@@ -685,8 +685,8 @@ for i in range(1, 15):  # Check all blog files
 
 For technical support or questions about the Individual File System Architecture:
 
-- **Documentation**: [Individual Files Guide](https://ridwaanhall.com/docs/individual-files)
-- **GitHub Issues**: [Report Issues](https://github.com/ridwaanhall/ridwaanhall-com/issues)
-- **Email Support**: [hi@ridwaanhall.com](mailto:hi@ridwaanhall.com)
+- **Documentation**: [Individual Files Guide](https://errorweb.ir/docs/individual-files)
+- **GitHub Issues**: [Report Issues](https://github.com/PeakPy/ErrorWeb-Studio/issues)
+- **Email Support**: [hi@errorweb.ir](mailto:hi@errorweb.ir)
 
-**Built with ❤️ by [Ridwan Halim](https://ridwaanhall.com) - Revolutionizing Content Architecture**
+**Built with ❤️ by [Ehsan Akbari](https://errorweb.ir) - Revolutionizing Content Architecture**

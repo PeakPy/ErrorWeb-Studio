@@ -10,15 +10,15 @@ from django.conf import settings
 blog_data = {
     "id": 9,
     "title": """How I Picked the Perfect Domain for My Site""",
-    "description": """The wild ride of choosing between .dev, .com, and .id for ridwaanhall.com—here's the tea!""",
+    "description": """The wild ride of choosing between .dev, .com, and .id for errorweb.ir—here's the tea!""",
     "images": {
         "choosing_domain.webp": f"{settings.BLOG_BASE_IMG_URL}/choosing_domain.webp"
     },
-    "created_at": datetime.strptime("2025-04-13T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-04-13T00:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "h2",
@@ -33,7 +33,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Building <a href='https://ridwaanhall.com' class='text-blue-600 hover:underline'>ridwaanhall.com</a> wasn't just about code—it was about giving it a vibe that truly represented my work and personality. Picking the right domain extension was a significant investment in my personal brand, so I carefully weighed <span class='text-green-600'>.dev</span>, <span class='text-blue-600'>.com</span>, and <span class='text-red-600'>.id</span> options before making my final choice."
+            "text": "Building <a href='https://errorweb.ir' class='text-blue-600 hover:underline'>errorweb.ir</a> wasn't just about code—it was about giving it a vibe that truly represented my work and personality. Picking the right domain extension was a significant investment in my personal brand, so I carefully weighed <span class='text-green-600'>.dev</span>, <span class='text-blue-600'>.com</span>, and <span class='text-red-600'>.id</span> options before making my final choice."
         },
         {
             "type": "h2",
@@ -248,7 +248,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "After weighing all options against my content goals and target audience, I ultimately chose <span class='text-blue-600'>ridwaanhall.com</span>."
+            "text": "After weighing all options against my content goals and target audience, I ultimately chose <span class='text-blue-600'>errorweb.ir</span>."
         },
         {
             "type": "p",

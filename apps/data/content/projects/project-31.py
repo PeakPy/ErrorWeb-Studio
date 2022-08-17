@@ -21,11 +21,11 @@ project_data = {
     "tech_stack": [
         SkillsData.tech_stack["python"]
     ],
-    "github_url": "https://github.com/ridwaanhall/ngl-link-spamming",
+    "github_url": "https://github.com/PeakPy/ngl-link-spamming",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-04-16T21:51:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Automation, Messaging, Social Media, Python Script",
     "tags": [
         "NGL",

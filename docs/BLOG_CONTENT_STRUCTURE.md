@@ -27,8 +27,8 @@ blog_data = {
     },
     
     # Timestamps
-    "created_at": datetime.strptime("2024-01-01T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2024-01-01T12:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "created_at": datetime.strptime("2021-01-01T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-01-01T12:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     
     # Author Information
     "author": "Author Full Name",
@@ -286,8 +286,8 @@ blog_data = {
     "images": {
         "python-basics.webp": f"{settings.BLOG_BASE_IMG_URL}/python-basics.webp"
     },
-    "created_at": datetime.strptime("2024-01-01T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2024-01-01T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "created_at": datetime.strptime("2021-01-01T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-01-01T10:00:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "author": "John Doe",
     "username": "johndoe",
     "author_image": f"{settings.BASE_URL}/static/img/johndoe.webp",

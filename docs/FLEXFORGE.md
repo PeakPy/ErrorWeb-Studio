@@ -1,4 +1,4 @@
-# FlexForge Template
+# ErrorWebStudio Template
 
 > **A revolutionary Django-TailwindCSS template for building flexible, high-performance personal websites**
 
@@ -7,15 +7,15 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-Ready-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 
-## 🚀 What is FlexForge?
+## 🚀 What is ErrorWebStudio?
 
-FlexForge Template is a cutting-edge Django-TailwindCSS template designed for developers who want to create **professional, performant, and highly customizable personal websites**. Built with modern web technologies and innovative architecture, FlexForge enables you to showcase your work, skills, and personality through a powerful yet flexible platform.
+ErrorWebStudio Template is a cutting-edge Django-TailwindCSS template designed for developers who want to create **professional, performant, and highly customizable personal websites**. Built with modern web technologies and innovative architecture, ErrorWebStudio enables you to showcase your work, skills, and personality through a powerful yet flexible platform.
 
-## 🎯 Why "FlexForge"?
+## 🎯 Why "ErrorWebStudio"?
 
 ### The Name Story
 
-After exploring numerous possibilities, **FlexForge** emerged as the perfect representation of this template's core philosophy:
+After exploring numerous possibilities, **ErrorWebStudio** emerged as the perfect representation of this template's core philosophy:
 
 - **Flex** represents the **revolutionary individual file architecture** that allows unprecedented flexibility in content management
 - **Forge** symbolizes the **powerful creation platform** that enables you to craft and build your digital presence
@@ -30,7 +30,7 @@ The name selection process considered various aspects:
 4. **Performance Focus** - Optimized loading and user experience
 5. **Professional Appeal** - Memorable and brandable for the developer community
 
-**FlexForge** uniquely combines these elements into a name that's both **memorable** and **meaningful**.
+**ErrorWebStudio** uniquely combines these elements into a name that's both **memorable** and **meaningful**.
 
 ## ✨ Core Features
 
@@ -81,7 +81,7 @@ The name selection process considered various aspects:
 ### Project Structure
 
 ```txt
-ridwaanhall-com/
+errorweb-ir/
 ├── apps/                   # Modular Django applications
 │   ├── about/              # About page functionality
 │   ├── blog/               # Blog system with individual files
@@ -93,7 +93,7 @@ ridwaanhall-com/
 │   └── seo/                # SEO optimization tools
 ├── static/                 # Static assets (CSS, JS, images)
 ├── templates/              # Django templates
-├── FlexForge/              # Main Django project configuration
+├── ErrorWebStudio/              # Main Django project configuration
 └── manage.py               # Django management script
 ```
 
@@ -172,8 +172,8 @@ ridwaanhall-com/
 
 ```bash
 # Clone the repository
-git clone <your-flexforge-repo>
-cd flexforge-template
+git clone <your-ErrorWebStudio-repo>
+cd ErrorWebStudio-template
 
 # Install dependencies
 pip install -r requirements.txt
@@ -202,7 +202,7 @@ python manage.py runserver
 
 ## 🤝 Contributing
 
-FlexForge Template welcomes contributions from the developer community. Whether you're fixing bugs, adding features, or improving documentation, your input helps make this template better for everyone.
+ErrorWebStudio Template welcomes contributions from the developer community. Whether you're fixing bugs, adding features, or improving documentation, your input helps make this template better for everyone.
 
 ## 📝 License
 
@@ -210,6 +210,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-**FlexForge Template** - *Where flexibility meets powerful creation* 🚀
+**ErrorWebStudio Template** - *Where flexibility meets powerful creation* 🚀
 
 > Built with ❤️ for the developer community

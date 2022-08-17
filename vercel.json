@@ -1,7 +1,7 @@
 {
 	"builds": [
         {
-            "src": "FlexForge/wsgi.py",
+            "src": "ErrorWebStudio/wsgi.py",
             "use": "@vercel/python",
             "config": {
                 "maxLambdaSize": "15mb",
@@ -16,7 +16,7 @@
 		},
 		{
 			"src": "/(.*)",
-			"dest": "FlexForge/wsgi.py"
+			"dest": "ErrorWebStudio/wsgi.py"
 		}
 	]
 }

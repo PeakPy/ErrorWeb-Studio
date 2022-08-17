@@ -14,11 +14,11 @@ blog_data = {
     "images": {
         "asian_nations_comparison.webp": f"{settings.BLOG_BASE_IMG_URL}/asian_nations_comparison.webp"
     },
-    "created_at": datetime.strptime("2025-05-10T12:17:08+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "updated_at": datetime.strptime("2025-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
-    "author": "Ridwan Halim",
+    "created_at": datetime.strptime("2021-05-10T12:17:08+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-07-22T14:29:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "author": "Ehsan Akbari",
     "username": "roneha",
-    "author_image": f"{settings.BASE_URL}/static/img/ridwaanhall.webp",
+    "author_image": f"{settings.BASE_URL}/static/img/errorweb.webp",
     "content": [
         {
             "type": "p",
@@ -33,7 +33,7 @@ blog_data = {
         {
             "type": "p",
             "class": "mb-4 text-sm md:text-base lg:text-lg",
-            "text": "Just a short flight from Jakarta, Singapore consistently ranks among the world's least corrupt nations (3rd on the 2024 Corruption Perceptions Index). The city-state's efficient governance, rule of law, and zero-tolerance policy toward corruption create a refreshingly transparent environment for residents and businesses alike."
+            "text": "Just a short flight from Jakarta, Singapore consistently ranks among the world's least corrupt nations (3rd on the 2021 Corruption Perceptions Index). The city-state's efficient governance, rule of law, and zero-tolerance policy toward corruption create a refreshingly transparent environment for residents and businesses alike."
         },
         {
             "type": "p",

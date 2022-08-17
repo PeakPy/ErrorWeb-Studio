@@ -24,11 +24,11 @@ project_data = {
         SkillsData.tech_stack["machine_learning"],
         SkillsData.tech_stack["music_recommendation"]
     ],
-    "github_url": "https://github.com/ridwaanhall/applied-machine-learning",
+    "github_url": "https://github.com/PeakPy/applied-machine-learning",
     "demo_url": "",
     "status": "completed",
     "created_at": None,
-    "updated_at": datetime.strptime("2025-04-24T13:16:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
+    "updated_at": datetime.strptime("2021-04-24T13:16:00+07:00", "%Y-%m-%dT%H:%M:%S%z"),
     "category": "Machine Learning, Forecasting, Recommendation System",
     "tags": [
         "Gold Price Prediction",
